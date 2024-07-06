@@ -26,9 +26,9 @@ Topics](list_prompts.md)
 
 *Data days:*
 
-* Day 6.  [OECD](data.oecd.org)
-* Day 18. [Asian Development Bank](data.adb.org)
-* Day 24. [ILO Africa](ilostat.ilo.org/data/africa/)
+* Day 6.  [OECD]((https://data.oecd.org)
+* Day 18. [Asian Development Bank]((https://data.adb.org)
+* Day 24. [ILO Africa]((https://ilostat.ilo.org/data/africa/)
 
 ## Contributions
 
