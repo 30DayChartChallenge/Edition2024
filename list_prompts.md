@@ -1,37 +1,37 @@
 # #30DayChartChallenge Topics by Day
 
 * **Comparisons**\
-  1\. part-to-whole\
-  2. neo\
-  3. makeover\
-  4. waffle\
-  5. diverging\
-  6. data day: [OECD](data.oecd.org)
+  1\. fractions\
+  2. slope\
+  3. circular\
+  4. big or small\
+  5. ranking\
+  6. theme day: florence nightingale
 * **Distributions**\
-  7. hazards\
-  8. circular\
-  9. major/minor\
-  10. physical\
-  11. mobile-friendly\
-  12. theme day: Reuters Graphics
+  7. outliers\
+  8. histogram\
+  9. diverging\
+  10. multi-modal\
+  11. stripes\
+  12. data day: [data.gov](https://data.gov/)
 * **Relationships**\
-  13. family\
-  14. heatmap\
-  15. historical\
-  16. weather\
-  17. networks\
-  18. data day: [Asian Development Bank](data.adb.org)
+  13. clusters\
+  14. kinship\
+  15. complicated\
+  16. negative\
+  17. birds\
+  18. theme day: El País
 * **Timeseries**\
-  19. dinosaurs\
-  20. correlation\
-  21. green energy\
-  22. mobility\
-  23. tiles\
-  24. theme day: [ILO Africa](ilostat.ilo.org/data/africa/)
+  19. smooth\
+  20. urbanization\
+  21. fossils\
+  22. stars\
+  23. log scale\
+  24. data day: [WHO](https://www.who.int/data/gho)
 * **Uncertainties**\
-  25. global change\
-  26. AI\
-  27. good/bad\
-  28. trend\
-  29. black & white\
-  30. theme day: 
+  25. risk\
+  26. monochrome\
+  27. noise\
+  28. inclusion\
+  29. extraterrestrial\
+  30. theme day: national geographic

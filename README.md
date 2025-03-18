@@ -3,8 +3,8 @@
 <p align="center">
 
 <em>Collection of contributions to and resources for the fourth
-<a href="https://twitter.com/30DayChartChall">#30DayChartChallenge</a>
-in April 2024.</em>
+<a href="https://bsky.app/profile/30daychartchall.bsky.social">#30DayChartChallenge</a>
+in April 2025.</em>
 
 </p>
 
@@ -12,10 +12,12 @@ in April 2024.</em>
 
 Anyone is welcome to contribute, no matter which data source or tool you
 use.\
-If you share your contributions on X or bsky, please use the hashtag
-[#30DayChartChallenge](https://twitter.com/search?q=%2330DayChartChallenge)
-and/or tag the [\@30DayChartCall](https://twitter.com/30DayChartChall)
-account.
+If you share your contributions on Linkedin or Bsky, please use the hashtag
+\#30DayChartChallenge
+
+[![](img/linkedin.svg)](https://www.linkedin.com/company/30daychartchallenge/)
+[<img src="img/Bluesky_Logo.svg" style="width: 3%; height: auto;">](https://bsky.app/profile/30daychartchall.bsky.social)
+
 
 ## Topics
 
@@ -26,14 +28,12 @@ Topics](list_prompts.md)
 
 *Data days:*
 
-* Day 6.  [OECD](https://data.oecd.org)
-* Day 18. [Asian Development Bank](https://data.adb.org)
-* Day 24. [ILO Africa](https://ilostat.ilo.org/data/africa/)
+* Day 12.  [data.gov](https://data.gov/)
+* Day 24. [WHO](https://www.who.int/data/gho)
 
 ## Contributions
 
-Collection of all contributions per day (shared on Twitter with the
-hashtag and/or mentioning @30DayChartChall account). For now just named
+Collection of all contributions per day. For now just named
 images in a folder---hopefully going to clean it up once the challenge
 is over.
 
@@ -42,10 +42,9 @@ is over.
 
 -   [Dedicated list of #Rstats
     contributions to the 2021 edition](https://github.com/dominicroye/rstats-chart-challenge-2021)
--   [#30DayChartChallenge](https://twitter.com/search?q=%2330DayChartChallenge)
-    on X
--   [#30DayChartChallenge](https://bsky.app/profile/30daychartchall.bsky.social)
+-   [#30DayChartChallenge](https://bsky.app/profile/did:plc:bjm7fq6jgotowpim5ggfbzw6/feed/aaaiqrocszqie)
     on bsky
+
 
 ## Resources
 
