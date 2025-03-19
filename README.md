@@ -12,7 +12,7 @@ in April 2025.</em>
 
 Anyone is welcome to contribute, no matter which data source or tool you
 use.\
-If you share your contributions on Linkedin or Bsky, please use the hashtag
+If you share your contributions on Linkedin or Bluesky, please use the hashtag
 \#30DayChartChallenge
 
 [![](img/linkedin.svg)](https://www.linkedin.com/company/30daychartchallenge/)
@@ -43,7 +43,7 @@ is over.
 -   [Dedicated list of #Rstats
     contributions to the 2021 edition](https://github.com/dominicroye/rstats-chart-challenge-2021)
 -   [#30DayChartChallenge](https://bsky.app/profile/did:plc:bjm7fq6jgotowpim5ggfbzw6/feed/aaaiqrocszqie)
-    on bsky
+    on Bluesky
 
 
 ## Resources
